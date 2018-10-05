@@ -5,7 +5,7 @@
   
 # Team:
 
-  • Sundar P [https://github.com/Paripoornan]
+  • Sundar P [https://github.com/paripooranan]
   
   • Saikatkar [https://github.com/saikat27]
      
